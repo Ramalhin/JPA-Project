@@ -1,6 +1,7 @@
 package com.jpaproject.model;
 
 import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "alunos")
